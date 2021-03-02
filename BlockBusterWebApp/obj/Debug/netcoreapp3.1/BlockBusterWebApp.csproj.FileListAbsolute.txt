@@ -155,3 +155,7 @@ C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp
 C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp\obj\Debug\netcoreapp3.1\BlockBusterWebApp.csproj.CoreCompileInputs.cache
 C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp\obj\Debug\netcoreapp3.1\BlockBusterWebApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Movies.cshtml.g.cs
+C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\hijkl\OneDrive\Desktop\se407midterm\BlockBusterWebApp\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
